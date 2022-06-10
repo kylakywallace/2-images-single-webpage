@@ -2,14 +2,14 @@ body {
     font-family: 'open sans', sans-serif;
     font-size: 120%;
     font-weight: 600;
-    background-color: #404040
+    background-color: #a1a1a1
 } 
 h1, h2 {
-    color: rgb(53,125,130);
+    color: rgb(155, 0, 108);
 }
 p {
-    color: rgb(191,201,204);
+    color: rgb(0, 0, 0);
 }
 figcaption {
-    color: rgba(3,123,135,255);
+    color: rgb(53, 3, 99)
 }
